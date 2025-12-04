@@ -165,7 +165,7 @@ nav ul li a:hover::after {
   position: absolute;  
   width: 800px;        
   height: 450px;     
-  background: url(../images/bg.jpg);
+  background: url(../finalproject/bg.jpg);
   color: rgb(230, 161, 0);
   padding: 70px 50px;
   display: flex;

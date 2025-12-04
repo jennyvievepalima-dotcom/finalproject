@@ -164,7 +164,7 @@ nav ul li a:hover::after {
   position: absolute;  
   width: 800px;        
   height: 450px;     
-  background: url(../images/bg.jpg);
+  background: url(../finalproject/bg.jpg);
   color: rgb(230, 161, 0);
   padding: 70px 50px;
   display: flex;
@@ -223,7 +223,7 @@ nav ul li a:hover::after {
 
 /* About */
 .abt-container {
-  background-image: url(../images/bg.jpg);
+  background-image: url(../finalproject/bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
