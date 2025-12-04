@@ -180,7 +180,7 @@ nav ul li a:hover::after {
   height: auto;
   min-height: 350px;
 
-  background: url(../finalproject/bg.jpg);
+  background: url(../finalproject/images/bg.jpg);
   background-size: cover;
   background-position: center;
 
