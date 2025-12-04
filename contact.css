@@ -5,9 +5,10 @@
 }
 
 html, body {
-  width: 100%;
+  max-width: 100%;
   overflow-x: hidden;
 }
+
 
 body {
   background-color: rgb(230, 161, 0);
@@ -32,7 +33,6 @@ body {
   border-radius: 0 0 10px 10px;
   transition: transform 0.5s ease,filter 0.5s ease, box-shadow 0.5s ease;
 }
-
 
 .logo-img {
   width: 500px;               
@@ -221,7 +221,6 @@ nav ul li a:hover::after {
     50% { transform: translateY(-20px); }
     100% { transform: translateY(0); }
 }
-
 /* Contact */
 .contact-section {
   display: flex;
